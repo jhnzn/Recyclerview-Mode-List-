@@ -14,7 +14,7 @@ import com.example.modelist.CardViewHeroAdapter
 import com.example.modelist.Hero
 import com.example.modelist.HeroesData
 import com.example.myrecyclerview.GridHeroAdapter
-import com.example.recyclerview.R
+import com.example.recycleview.R
 
 class MainActivity : AppCompatActivity() {
     private lateinit var rvHeroes: RecyclerView;
@@ -95,3 +95,4 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
