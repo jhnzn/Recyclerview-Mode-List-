@@ -1,4 +1,4 @@
-package com.example.modelist
+package com.example.recycleview
 
 data class Hero (
     var name: String="",
