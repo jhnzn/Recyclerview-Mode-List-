@@ -5,4 +5,4 @@
 
 #Grid
 
-![grid](https://github.com/jhnzn/Recycleview/assets/110018897/1fc06e7e-83f3-4f2a-973d-096c39e0c87c)
+![grid](https://github.com/jhnzn/Recycleview/assets/110018897/6c0b96b7-6b4e-41f5-9ffd-59e7c70dec61)
